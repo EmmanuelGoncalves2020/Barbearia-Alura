@@ -505,7 +505,7 @@ opacity: 0.3;
 }
 
 @media screen and (max-width:480px){
-	.caixa, .principal, .conteudo-beneficios, .mapa-conteudo, .video{
+	.caixa, .carousel,.slides,.carousel-dots, .principal,.conteudo-beneficios, .mapa-conteudo, .video{
 		width: auto;
 
 	}
@@ -519,7 +519,7 @@ opacity: 0.3;
 		position: static;
 
 	}
-	.lista-beneficios, .imagem-beneficios{
+	.lista-beneficios, .imagem-beneficios, .servicos,.container, .equipe{
 		width: 100%;
 	}
 }
